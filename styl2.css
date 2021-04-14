@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: #9BD7ED;
+}
+body div {
+    width: 450px;
+    height: 350px;
+}
+body div img {
+    width: 450px;
+    height: 350px;
+}
